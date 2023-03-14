@@ -1,0 +1,11 @@
+{
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Run escola.escola",
+        "request": "launch",
+        "mainClass": "escola.escola"
+      }
+    ]
+  }
+  
